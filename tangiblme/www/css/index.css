@@ -71,6 +71,8 @@ body {
 }
 
 .button {
+  text-decoration: none;
+  color: black;
   background-color: #e8e8ed;
   border: 1px solid grey;
   margin: 40px;
